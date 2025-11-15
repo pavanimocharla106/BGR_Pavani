@@ -755,8 +755,7 @@ plot v(ref)
 <img width="849" height="729"  src="https://github.com/pavanimocharla106/BGR_Pavani/blob/main/images/23.jpeg" />
 <img width="926" height="486"  src="https://github.com/pavanimocharla106/BGR_Pavani/blob/main/images/24.jpeg" />
 <img width="886" height="680"  src="https://github.com/pavanimocharla106/BGR_Pavani/blob/main/images/25.jpeg" />
-<img width="1595" height="693" src="https://github.com/user-attachments/assets/c4a4627c-bf06-407b-9062-8cf72d657c42" />
-<img width="780" height="397"  src="https://github.com/user-attachments/assets/6cba83d9-dabc-4398-9eed-5fa986ca86bf" />
+<img width="1595" height="693" src="https://github.com/pavanimocharla106/BGR_Pavani/blob/main/images/26.jpeg" />
 <img width="910" height="677" src="https://github.com/pavanimocharla106/BGR_Pavani/blob/main/images/40.jpeg" />
 
 ### 3.4.5 BGR with selfbias current mirror
