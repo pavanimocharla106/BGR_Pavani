@@ -516,7 +516,7 @@ Resistor implementation: 16 in series and 2 in parallel (2 + 2 + … + 2 + (2‖
 2. The 1st line of the Spice netlist is by default a comment line.
 3. To write a valid netlist we must include the library file (with absolute path) and mention the corner name (tt, ff or ss).
 
-<img width="712" height="487"  src="https://github.com/pavanimocharla106/BGR_Pavani/blob/main/images/1.3.jpeg" />
+<img width="712" height="487"  src="https://github.com/pavanimocharla106/BGR_Pavani/blob/main/images/40.jpeg" />
 ## 🔍 Netlist Explanation (Sky130 BGR Subcircuit)
 
 ### 1️⃣ Global and Temperature Setup
@@ -627,7 +627,7 @@ Open your terminal and navigate to the **prelayout** directory.
 Run the following command to launch the simulation:
 
 ```bash
-cd /workspaces/vsd-bandgap/bandgap/prelayout/
+cd workspaces/vsd-bandgap/bandgap/prelayout/
 ngspice ctat_voltage_gen.sp
 ```
 
@@ -640,9 +640,9 @@ After simulation we can get a wavefrom like below, and from the wavefrom we can 
 ### CTAT Voltage generation with Multiple BJT netlist
 
 In this simulation we will check the CTAT voltage across the 8 parallel connected BJTs
-<img width="981" height="492"  src="https://github.com/user-attachments/assets/015da634-c3b7-43ae-9685-58a3b8af7e95" />
+<img width="981" height="492"  src="https://github.com/pavanimocharla106/BGR_Pavani/blob/main/images/1.3.jpeg" />
 
-<img width="1171" height="761" src="https://github.com/user-attachments/assets/6dfb5edd-e29b-4de2-91f1-3f8e83a1ed72" />
+<img width="1171" height="761" src="https://github.com/pavanimocharla106/BGR_Pavani/blob/main/images/1.5.jpeg" />
 
 we can see the slope is increasing in case of multiple BJTs.
 
@@ -670,7 +670,7 @@ we can see the slope is increasing in case of multiple BJTs.
 
 ### 🖥️ Simulation Command
 ```spice 
-cd /workspaces/vsd-bandgap/bandgap/prelayout/
+cd workspaces/vsd-bandgap/bandgap/prelayout/
 ngspice res_tempco.sp
 ```
 Also we can find the PTAT voltages across the resistance for different current values from the following curve.
