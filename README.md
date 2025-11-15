@@ -633,7 +633,7 @@ ngspice ctat_voltage_gen.sp
 
 After simulation we can get a wavefrom like below, and from the wavefrom we can see the CTAT behaviour of the BJT, and can find the slope.
 
-<img width="911" height="659"  src="https://github.com/pavanimocharla106/BGR_Pavani/blob/main/images/1.5.jpeg" />
+<img width="911" height="659"  src="https://github.com/pavanimocharla106/BGR_Pavani/blob/main/images/42.jpeg" />
 
 <img width="926" height="589"  src="https://github.com/pavanimocharla106/BGR_Pavani/blob/main/images/1.4.jpeg" />
 
