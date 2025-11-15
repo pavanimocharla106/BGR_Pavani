@@ -1193,6 +1193,5 @@ The image below shows the **complete top-level BGR layout**, where all component
 <img width="1145" height="452"  src="https://github.com/pavanimocharla106/BGR_Pavani/blob/main/images/36.jpeg" />
 <img width="942" height="705" src="https://github.com/pavanimocharla106/BGR_Pavani/blob/main/images/35.jpeg" />
 
-### AUTHOR- PAVANI MOCHARLA UNDER GUIDANCE OF Prof. in collaboration with VSD
-
+### Author- MOCHARLA PAVANI  under the guidence of Prof. SANTUNU SARANGI in collaboration with VSD
 ---
