@@ -1099,7 +1099,7 @@ The layout is carefully optimized to maintain **symmetry**, **matching accuracy*
    - Source and drain regions are shared between adjacent devices to reduce area and parasitics.
 
 ``` bash
-@chandranshu24-hue ➜ /workspaces/vsd-bandgap/bandgap/layout (main) $ magic -T sky130A.tech  nfets.mag
+cd ➜ /workspaces/vsd-bandgap/bandgap/layout (main) $ magic -T sky130A.tech  nfets.mag
 ```
 <img width="1217" height="740"  src="https://github.com/pavanimocharla106/BGR_Pavani/blob/main/images/30.jpeg" />
 
@@ -1193,5 +1193,5 @@ The image below shows the **complete top-level BGR layout**, where all component
 <img width="1145" height="452"  src="https://github.com/pavanimocharla106/BGR_Pavani/blob/main/images/36.jpeg" />
 <img width="942" height="705" src="https://github.com/pavanimocharla106/BGR_Pavani/blob/main/images/35.jpeg" />
 
-### Author- MOCHARLA PAVANI  under the guidence of Prof. SANTUNU SARANGI in collaboration with VSD
+### Author- PAVANI MOCHARLA under the Guidence Of Prof. Santhanu Sarangi in collaboration with VSD
 ---
