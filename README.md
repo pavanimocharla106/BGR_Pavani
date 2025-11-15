@@ -516,7 +516,7 @@ Resistor implementation: 16 in series and 2 in parallel (2 + 2 + … + 2 + (2‖
 2. The 1st line of the Spice netlist is by default a comment line.
 3. To write a valid netlist we must include the library file (with absolute path) and mention the corner name (tt, ff or ss).
 
-<img width="712" height="487"  src="https://github.com/pavanimocharla106/BGR_Pavani/blob/main/images/40.jpeg" />
+<img width="712" height="487"  src="https://github.com/pavanimocharla106/BGR_Pavani/blob/main/images/41.jpeg" />
 ## 🔍 Netlist Explanation (Sky130 BGR Subcircuit)
 
 ### 1️⃣ Global and Temperature Setup
