@@ -1098,7 +1098,7 @@ The layout is carefully optimized to maintain **symmetry**, **matching accuracy*
    - Source and drain regions are shared between adjacent devices to reduce area and parasitics.
 
 ``` bash
-cd ➜ /workspaces/vsd-bandgap/bandgap/layout (main) $ magic -T sky130A.tech  nfets.mag
+cd workspaces/vsd-bandgap/bandgap/layout (main) $ magic -T sky130A.tech  nfets.mag
 ```
 <img width="1217" height="740"  src="https://github.com/pavanimocharla106/BGR_Pavani/blob/main/images/30.jpeg" />
 
